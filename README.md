@@ -1,10 +1,6 @@
 ## Hi there 👋
-<div align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reirei62&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=reirei62&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=reirei62&theme=tokyonight&column=5
+[![trophy](https://github-profile-trophy.vercel.app/?username=reirei62&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **reirei62/reirei62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Like
+[![My Skills](https://skillicons.dev/icons?i=aws,astro,css,docker,dynamodb,figma,flutter,github,go,html,kubernetes,laravel,linux,mysql,nextjs,nginx,notion,php,postman,rails,raspberrypi,react,redis,ruby,rails,py,tailwind,ts,unity,vscode&perline=15)](https://skillicons.dev)
