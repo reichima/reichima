@@ -1,6 +1,11 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reirei62&theme=tokyonight
-)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reirei62&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=reirei62&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=reirei62&theme=tokyonight&column=5
+)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **reirei62/reirei62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
