@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ## Like
-[![My Skills](https://skillicons.dev/icons?i=aws,astro,css,docker,dynamodb,figma,flutter,github,go,html,kubernetes,laravel,linux,mysql,nextjs,nginx,notion,php,postman,rails,raspberrypi,react,redis,ruby,rails,py,tailwind,ts,unity,vscode&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,css,docker,dynamodb,figma,flutter,github,go,html,kubernetes,laravel,linux,mysql,postgres,nextjs,nginx,notion,php,postman,rails,raspberrypi,react,redis,ruby,tailwind,ts,vscode,rust&perline=12)](https://skillicons.dev)
