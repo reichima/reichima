@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=reirei62&theme=tokyonight&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **reirei62/reirei62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
