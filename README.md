@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 **[https://reichima.com](https://reichima.com)**
 
 ## Like
-[![My Skills](https://skillicons.dev/icons?i=aws,css,docker,dynamodb,github,go,html,kubernetes,laravel,linux,mysql,postgres,nextjs,nginx,php,postman,rails,raspberrypi,react,redis,ruby,tailwind,ts,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,github,go,laravel,linux,mysql,nginx,php,rails,react,tailwind,&perline=12)](https://skillicons.dev)
